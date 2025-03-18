@@ -1,4 +1,4 @@
-## cTrader Code Example
+## cTrader Code Examples
 
 This GitHub repository contains all the cTrader example projects for indicators and cBots, including automated trading systems and plugins. They are provided for educational purposes only to help you learn how to create your tools.
 
