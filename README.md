@@ -12,7 +12,7 @@ There is a beginner [Algorithmic Trading School](https://clickalgo.com/algorithm
 
 We offer a professional [coding service](https://clickalgo.com/ctrader-programming) from our team, with over 10 years of experience helping traders build automated trading strategies.
 
-You can gain access to our dedicated cTrader [Code Ai](https://clickalgo.com/code-ai) coding assistant and create Microsoft C# code with your instructions.
+You can gain access to our dedicated cTrader [CodePilot](https://clickalgo.com/codepilot) coding assistant and create Microsoft C# code with your instructions.
 
 ## cTrader Ai Tutors
 
